@@ -7,7 +7,7 @@ This project analyzes sales data using SQL to identify trends in revenue, custom
 
 ## Tools Used
 - MySQL
-- Excel (optional for visualization)
+- Excel
 
 ## Key Analyses
 - Total sales and profit analysis
